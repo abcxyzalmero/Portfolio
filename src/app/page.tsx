@@ -15,6 +15,13 @@ export default function Home() {
       <section id="home" className="pt-24 pb-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <div className="text-center space-y-8">
+            <div className="mb-8">
+              <img
+                src="/profile.jpg"
+                alt="Xurhiel May Navarette Almero"
+                className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-gray-700 shadow-lg hover:scale-105 transition-transform duration-300"
+              />
+            </div>
             <h1 className="text-4xl sm:text-5xl font-bold text-white">
               Welcome to My Digital Space
             </h1>
