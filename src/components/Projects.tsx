@@ -14,7 +14,7 @@ const Projects = () => {
       image: "/projects/blind-vision.jpg"
     },
     {
-      title: "DMSFI LCR Attendance System",
+      title: "DMSFI LEARNING RESOURCES CENTER Attendance System",
       role: "Developer",
       description: "A comprehensive attendance management system for the Local Civil Registry office.",
       tags: ["Web Development", "System Design", "Database Management"],
