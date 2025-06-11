@@ -36,7 +36,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="/cv.pdf"
+              href="/almero_cv.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#60a5fa] text-white px-4 py-2 rounded-md hover:bg-[#3b82f6] transition-colors"
