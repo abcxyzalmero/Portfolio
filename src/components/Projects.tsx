@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: "DMSFI LEARNING RESOURCES CENTER Attendance System",
       role: "Developer",
-      description: "A comprehensive attendance management system for the Local Civil Registry office.",
+      description: "A comprehensive attendance management system for the Learning Resource Center office.",
       tags: ["Web Development", "System Design", "Database Management"],
       image: "/projects/lcr-system.jpg"
     },
